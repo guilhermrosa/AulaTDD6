@@ -1,1 +1,1 @@
-{"version":1,"defects":{"PilhaTest::testInserirItemAleatorio":3},"times":{"PilhaTest::testInserirItemAleatorio":0.013,"PilhaTest::testRemoverItens":0,"PilhaTest::testTopo":0}}
+{"version":1,"defects":{"PilhaTest::testInserirItemAleatorio":3},"times":{"PilhaTest::testInserirItemAleatorio":0.013,"PilhaTest::testRemoverItens":0,"PilhaTest::testTopo":0,"NumerosTest::testMaior":0.006,"NumerosTest::testMenor":0}}
